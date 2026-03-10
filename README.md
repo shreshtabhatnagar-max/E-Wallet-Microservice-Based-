@@ -176,7 +176,7 @@ Transaction confirmation
 Wallet updates
 
 Alerts
-<img width="1145" height="788" alt="Screenshot 2026-03-10 085647" src="https://github.com/user-attachments/assets/8964be4e-1815-43ed-91a0-84fee81c9b2d" />
+![Email Sent](https://github.com/user-attachments/assets/30eb9054-14bc-4459-8fbe-62c10e5db0e9)
 
 🧪 Testing
 
