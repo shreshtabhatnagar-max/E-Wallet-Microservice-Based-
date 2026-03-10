@@ -1,4 +1,4 @@
-# 💳 E-Wallet Backend System
+<img width="374" height="568" alt="Screenshot 2026-03-10 205909" src="https://github.com/user-attachments/assets/a7d4c8a1-e092-4add-890f-996e037278d1" /># 💳 E-Wallet Backend System
 
 A backend system for a digital **E-Wallet platform** built using **Spring Boot**.  
 The system is designed to handle wallet management, transactions, notifications, and secure user operations using modern backend technologies.
@@ -169,8 +169,12 @@ Session information
 📬 Email Notifications
 
 Spring Mail is used to send notifications such as:
-<img width="1812" height="893" alt="Screenshot 2026-03-10 082543" src="https://github.com/user-attachments/assets/30eb9054-14bc-4459-8fbe-62c10e5db0e9" />
+![Email Sent](https://github.com/user-attachments/assets/30eb9054-14bc-4459-8fbe-62c10e5db0e9)
 
+![Wallet Update](https://github.com/user-attachments/assets/d05cb3d1-7760-4bb9-94eb-c9bf6b69f9b8)
+
+
+![Alert](https://github.com/user-attachments/assets/f02e3dc5-2b4e-4050-bc0d-e780460e6192)
 
 
 Transaction confirmation
