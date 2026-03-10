@@ -6,6 +6,7 @@ The system is designed to handle wallet management, transactions, notifications,
 This project demonstrates a **scalable backend architecture** using messaging systems, caching, and secure APIs.
 
 ---
+<img width="374" height="568" alt="Screenshot 2026-03-10 205909" src="https://github.com/user-attachments/assets/cf6e7c01-fe23-4102-9d98-3049e9b8b95b" />
 
 # 🚀 Features
 
