@@ -25,7 +25,7 @@ This project demonstrates a **scalable backend architecture** using messaging sy
 ---
 <img width="1145" height="788" alt="Screenshot 2026-03-10 085647" src="https://github.com/user-attachments/assets/39c39f15-16ea-47cc-95f7-27d3fa292894" />
 <img width="1808" height="291" alt="Screenshot 2026-03-10 <img width="1784" height="856" alt="Screenshot 2026-03-10 082912" src="https://github.com/user-attachments/assets/8e234b9d-c118-4ca8-b948-85912d30a979" />
-083123" src="https://github.com/user-attachments/assets/dc6d635b-65c4-4ce9-896d-7a0ac2f1cfd6" />
+
 
 # 🏗 System Architecture
 
