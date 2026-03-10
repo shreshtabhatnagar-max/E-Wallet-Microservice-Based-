@@ -176,7 +176,7 @@ Transaction confirmation
 Wallet updates
 
 Alerts
-![Email Sent](https://github.com/user-attachments/assets/30eb9054-14bc-4459-8fbe-62c10e5db0e9)
+
 
 🧪 Testing
 
