@@ -1,4 +1,4 @@
-<img width="374" height="568" alt="Screenshot 2026-03-10 205909" src="https://github.com/user-attachments/assets/a7d4c8a1-e092-4add-890f-996e037278d1" /># 💳 E-Wallet Backend System
+# 💳 E-Wallet Backend System
 
 A backend system for a digital **E-Wallet platform** built using **Spring Boot**.  
 The system is designed to handle wallet management, transactions, notifications, and secure user operations using modern backend technologies.
@@ -39,6 +39,7 @@ Additional supporting components:Kafka → Event Driven Communication
 Redis → Caching Layer
 SMTP → Email Notifications
 Spring Security → Authentication & Authorization
+
 
 
 ---
@@ -169,7 +170,7 @@ Session information
 📬 Email Notifications
 
 Spring Mail is used to send notifications such as:
-
+<img width="1145" height="788" alt="Screenshot 2026-03-10 085647" src="https://github.com/user-attachments/assets/8964be4e-1815-43ed-91a0-84fee81c9b2d" />
 Transaction confirmation
 
 Wallet updates
