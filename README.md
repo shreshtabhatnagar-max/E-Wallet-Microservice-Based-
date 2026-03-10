@@ -169,6 +169,10 @@ Session information
 📬 Email Notifications
 
 Spring Mail is used to send notifications such as:
+<img width="1812" height="893" alt="Screenshot 2026-03-10 082543" src="https://github.com/user-attachments/assets/b1282353-4a32-4918-a562-43f4a760061a" />
+<img width="374" height="568" alt="Screenshot 2026-03-10 205909" src="https://github.com/user-attachments/assets/064acf32-8fe5-4969-a59a-acdc0c29a4e8" />
+<img width="357" height="751" alt="Screenshot 2026-03-10 205944" src="https://github.com/user-attachments/assets/607606e3-b799-4784-8f19-928c64881532" />
+
 
 Transaction confirmation
 
