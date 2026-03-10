@@ -32,6 +32,7 @@ Service Layer (Business Logic)
 Repository Layer (Spring Data JPA)
 |
 MySQL Database
+<img width="1321" height="799" alt="Screenshot 2026-03-10 084009" src="https://github.com/user-attachments/assets/4c912b1d-bebb-4f9a-bd22-d9910a75ecaf" />
 
 
 Additional supporting components:Kafka → Event Driven Communication
@@ -205,6 +206,6 @@ Add Swagger API documentation
 
 👨‍💻 Author
 
-Shresth Bhatnagar
+Shrestha Bhatnagar
 GitHub
 https://github.com/shreshtabhatnagar-max/E-Wallet-Microservice-Based-
