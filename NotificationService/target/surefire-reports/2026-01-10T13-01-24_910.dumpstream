@@ -1,5 +1,0 @@
-# Created at 2026-01-10T13:01:25.085
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Users\shres\JBDL8_EWallet-main\JBDL8_EWallet-main\E-WalletJBDL8\NotificationService\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-

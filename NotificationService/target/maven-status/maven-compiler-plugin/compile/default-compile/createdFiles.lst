@@ -1,9 +1,0 @@
-org\gfg\NotificationService\config\config.class
-org\gfg\NotificationService\NotificationServiceApplication.class
-org\gfg\NotificationService\worker\OTPWorker.class
-org\gfg\NotificationService\worker\Worker.class
-org\gfg\NotificationService\worker\NotificationWorker.class
-org\gfg\NotificationService\config\EmailTemplate.class
-org\gfg\NotificationService\redis\RedisUtil.class
-org\gfg\NotificationService\consumer\UserConsumer.class
-org\gfg\NotificationService\otp\OTPController.class
